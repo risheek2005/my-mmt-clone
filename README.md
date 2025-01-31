@@ -2,7 +2,7 @@ Task Completed as per asked
 
 Preview Link:
 
-![mmt-clone](https://7sg56.github.io/mmt-clone/)
+[mmt-clone](https://7sg56.github.io/mmt-clone/)
 
 ScreenShot of the Clone: 
 
